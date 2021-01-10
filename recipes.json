@@ -1,6 +1,15 @@
 {
 	"recipe": [
 		{
+			"name": "Pancakes",
+			"id": "pancakes",
+			"description": "Test",
+			"tag": [
+				"breakfast",
+				"dessert"
+			]
+		},
+		{
 			"name": "Giouvarlakia",
 			"id": "giouvarlakia",
 			"description": "A low carb version of a traditional hearty Greek dish",
